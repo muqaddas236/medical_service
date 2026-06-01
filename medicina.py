@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, CallbackQuery
 
 # Sizning tokeningiz
-TOKEN = "8709975349:AAGuxHKPgDX2lx_8f5Wf3ExnJbH735yHxNE"
+TOKEN = "py"
 
 # PythonAnywhere bepul serveri uchun Proxy (Telegramga ulanish uchun shart)
 PROXY_URL = "http://proxy.server:3128"
